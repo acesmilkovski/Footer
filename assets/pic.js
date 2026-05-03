@@ -15,6 +15,10 @@
                 {
                     src: "./fss/Screenshot from 2025-11-11 23-55-17.png",
                     href: "https://geo-mkd.netlify.app/"
+                },
+                {
+                    src: "./fss/Screenshot 2026-05-03 023111",
+                    href: "https://ml-mkd.netlify.app/"
                 }
             ];
 
