@@ -17,7 +17,7 @@
                     href: "https://geo-mkd.netlify.app/"
                 },
                 {
-                    src: "./fss/Screenshot 2026-05-03 023111",
+                    src: "./fss/Screenshot 2026-05-03 023111.png",
                     href: "https://ml-mkd.netlify.app/"
                 }
             ];
