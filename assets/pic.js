@@ -22,15 +22,7 @@
                 }
             ];
 
-            const carouselContainer = document.getElementById('carousel-container');
-
-           
-
-            const caruselTrack = document.createElement('div');
-
-            caruselTrack.className('carousel-track');
-
-            
+            const carouselTrack = document.getElementById('carousel-track');
 
             // Duplicate the array to create seamless looping
             const extendedArray = [...picArray, ...picArray];
@@ -54,5 +46,4 @@
                 carouselItem.appendChild(link);
                 carouselTrack.appendChild(carouselItem);
             });
-        caruselContainer.appendChild(caruselTrack);
         });
