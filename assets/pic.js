@@ -28,7 +28,7 @@
 
             const caruselTrack = document.createElement('div');
 
-            caruselTrack.className('carusel-track');
+            caruselTrack.className('carousel-track');
 
             
 
