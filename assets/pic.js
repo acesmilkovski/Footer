@@ -22,7 +22,13 @@
                 }
             ];
 
-            const carouselTrack = document.getElementById('carousel-container');
+            const carouselContainer = document.getElementById('carousel-container');
+
+           
+
+            const caruselTrack = document.createElement('div');
+
+            caruselTrack.className('carusel-track');
 
             // Duplicate the array to create seamless looping
             const extendedArray = [...picArray, ...picArray];
