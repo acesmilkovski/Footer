@@ -30,6 +30,8 @@
 
             caruselTrack.className('carusel-track');
 
+            caruselContainer.appendChild(caruselTrack);
+
             // Duplicate the array to create seamless looping
             const extendedArray = [...picArray, ...picArray];
 
